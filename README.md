@@ -23,8 +23,8 @@ Other useful commands to see what is going on the git repository:
 - [X] Create a new file called `newfile.txt`, add some contents to it and push it to GitHub
 - [X] Update newfile.txt and push the changes to GitHub
 - [X] Open the repository on GitHub and make changes to `newfile.txt`
-- [ ] Pull the changes to your local repository
-- [ ] Create a new branch named "branch-1" and push to Github
+- [X] Pull the changes to your local repository
+- [X] Create a new branch named "branch-1" and push to Github
 
 ## Practice Output
 1. Your repo url in Github
