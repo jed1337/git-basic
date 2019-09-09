@@ -17,10 +17,10 @@ Other useful commands to see what is going on the git repository:
 
 ## Exercises
 
-- [ √ ] Fork this repo
-- [ √ ] Clone this repo
-- [ √ ] Update the README: add some lines to the end and push them to GitHub
-- [ ] Create a new file called `newfile.txt`, add some contents to it and push it to GitHub
+- [X] Fork this repo
+- [X] Clone this repo
+- [X] Update the README: add some lines to the end and push them to GitHub
+- [X] Create a new file called `newfile.txt`, add some contents to it and push it to GitHub
 - [ ] Update newfile.txt and push the changes to GitHub
 - [ ] Open the repository on GitHub and make changes to `newfile.txt`
 - [ ] Pull the changes to your local repository
