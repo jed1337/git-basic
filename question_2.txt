@@ -1,0 +1,7 @@
+What is the difference between add, commit, and push?
+Add
+	You add files to your staging area in git
+Commit
+	Files in the staging area are recorded and stored in your local repository.
+Push
+	Transfer the commits to a remote server.
